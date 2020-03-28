@@ -1,0 +1,5 @@
+# This range is ---> (start, end, difference)
+list1 = range(5, 15, 3)
+print(list(list1))
+list2 = range(0, 40, 5)
+print(list(list2))
